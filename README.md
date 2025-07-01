@@ -15,3 +15,6 @@ questions:
 2. Relationship between price and earnings
 3. Any location (shore) getting more earnings
 4. Relationship between price and reviews
+
+
+Tableau link: https://public.tableau.com/app/profile/koustav.chowdhury/viz/CN-Project/CN_Project?publish=yes
